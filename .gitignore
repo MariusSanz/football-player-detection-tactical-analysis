@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# YOLO model weights
+*.pt
+
+# Generated project files
+jugadors_defensius.json
+resultat_total_pissarra.png
+resultat_pissarra_tactica.png
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
